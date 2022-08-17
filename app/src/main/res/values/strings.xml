@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Transit</string>
+
+    <string name="TRANSIT"> <font color='#E50019'>T</font>
+                            <font color='#2C8935'>R</font>
+                            <font color='#2C8935'>A</font>
+                            <font color='#2C8935'>N</font>
+                            <font color='#2C8935'>S</font>
+                            <font color='#2C8935'>I</font>
+                            <font color='#2C8935'>T</font>
+    </string>
+
+    <string-array name="Select_Stop">
+        <item>M.A Jinnah Road</item>
+        <item>Business Recorder Road</item>
+        <item>Nawab Siddique Ali Khan Road</item>
+        <item>Shahrah-e-Sher Shah Suri</item>
+        <item>Shahrah-e-Usman</item>
+        <item>Khawaja Shamsuddin Azeemi Road</item>
+    </string-array>
+
+
+    <string name="verification">Enter the 5 digit verification code that has been sent to Email/ Phone number</string>
+    <string name="password_hint">CORRECT PASSWORD</string>
+    <string name="aboutCode1">Didn\'t receive any code? </string>
+    <string name="aboutCode2">Resend Code</string>
+    <string name="forgot_PASSWORD">We will send you a One Time Password please enter your Email Address or Password</string>
+    <string name="prefLoginState">loginstate</string>
+
+</resources>
