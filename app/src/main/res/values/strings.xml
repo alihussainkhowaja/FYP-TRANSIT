@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdminTranist</string>
+    <string name="TRANSIT"> <font color='#E50019'>T</font>
+                            <font color='#2C8935'>R</font>
+                            <font color='#2C8935'>A</font>
+                            <font color='#2C8935'>N</font>
+                            <font color='#2C8935'>S</font>
+                            <font color='#2C8935'>I</font>
+                            <font color='#2C8935'>T</font>
+    </string>
+    <string name="forgot_PASSWORD">We will send you a One Time Password please enter your Email Address or Password</string>
+</resources>
